@@ -6,16 +6,16 @@
 />
 
 #### Projects
-<a href="[fluf](https://github.com/fewkz/fluf">
-  <img
-    alt="fluf"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=fewkz&repo=fluf"
-  />
-</a>
 <a href="https://github.com/fewkz/froact">
   <img
     alt="froact"
     src="https://github-readme-stats.vercel.app/api/pin/?username=fewkz&repo=froact"
+  />
+</a>
+<a href="[fluf](https://github.com/fewkz/fluf">
+  <img
+    alt="fluf"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=fewkz&repo=fluf"
   />
 </a>
 

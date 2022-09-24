@@ -16,7 +16,7 @@
   />
 </a>
 
-#### Projects
+### Open Source Projects
 <a href="https://github.com/fewkz/froact">
   <img
     src="https://github-readme-stats.vercel.app/api/pin/?username=fewkz&repo=froact&theme=omni&hide_border=true"

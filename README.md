@@ -1,7 +1,7 @@
 ### Hi there 👋
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fewkz&theme=radical"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fewkz&theme=github_dark&title_color=EE4B30&icon_color=EE4B30&border_color=EE4B30"
     alt="Language Stats"
     align="right"
   />
@@ -11,13 +11,13 @@
 <a href="https://github.com/fewkz/froact">
   <img
     alt="froact"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=fewkz&repo=froact"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=fewkz&repo=froact&theme=github_dark&title_color=EE4B30&icon_color=EE4B30&border_color=EE4B30"
   />
 </a>
 <a href="[fluf](https://github.com/fewkz/fluf">
   <img
     alt="fluf"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=fewkz&repo=fluf"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=fewkz&repo=fluf&theme=github_dark&title_color=EE4B30&icon_color=EE4B30&border_color=EE4B30"
   />
 </a>
 

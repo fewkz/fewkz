@@ -22,10 +22,16 @@
     src="https://github-readme-stats.vercel.app/api/pin/?username=fewkz&repo=froact&theme=omni&hide_border=true"
     alt="froact"
   />
-</a>
+</a><br />
 <a href="https://github.com/fewkz/fluf">
   <img
     src="https://github-readme-stats.vercel.app/api/pin/?username=fewkz&repo=fluf&theme=omni&hide_border=true"
+    alt="fluf"
+  />
+</a><br />
+<a href="https://github.com/fewkz/character-realism">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=fewkz&repo=character-realism&theme=omni&hide_border=true"
     alt="fluf"
   />
 </a>

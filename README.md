@@ -1,16 +1,15 @@
-## Hi there 👋
+Hello! I'm a Roblox developer and I make some Luau projects.
 
-<!--
-**fewkz/fewkz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I've also created the Roblox game [Blockate](https://www.roblox.com/games/1174068786/Blockate)
+and I program for [PLS DONATE](https://www.roblox.com/games/8737602449/PLS-DONATE)
 
-Here are some ideas to get you started:
+Other games I worked on are:
+[Type Race](https://www.roblox.com/games/7232779505/Type-Race),
+[ROBLOX Death Simulator](https://www.roblox.com/games/593926347/ROBLOX-death-simulator),
+[Outfitter](https://www.roblox.com/games/2943245699/Outfitter)
+[blocklr: reborn](https://www.roblox.com/games/4924719013/blocklr-reborn)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+[Cells](https://github.com/fewkz/cells), a reactive state management library for Luau.
+
+[Studio Wally](https://github.com/fewkz/studio-wally), a Roblox plugin which allows you to download [wally](https://github.com/UpliftGames/wally) projects from inside of Roblox studio.

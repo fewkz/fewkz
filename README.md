@@ -1,6 +1,6 @@
 Hello! I'm a Roblox developer and I make some Luau projects.
 
-I've also created the Roblox game [Blockate](https://www.roblox.com/games/1174068786/Blockate)
+I've created the Roblox game [Blockate](https://www.roblox.com/games/1174068786/Blockate)
 and I program for [PLS DONATE](https://www.roblox.com/games/8737602449/PLS-DONATE)
 
 Other games I worked on are:

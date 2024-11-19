@@ -10,6 +10,6 @@ Other games I worked on are:
 [blocklr: reborn](https://www.roblox.com/games/4924719013/blocklr-reborn)
 
 ## Projects
-[Cells](https://github.com/fewkz/cells), a reactive state management library for Luau.
-
 [Studio Wally](https://github.com/fewkz/studio-wally), a Roblox plugin which allows you to download [wally](https://github.com/UpliftGames/wally) projects from inside of Roblox studio.
+
+[Cells](https://github.com/fewkz/cells), a reactive state management library for Luau.
